@@ -1,7 +1,6 @@
 # neural-networks-image-classificaton
 
-## Test1
-### Test2
-#### Test3
-##### Test4
-Test5
+This code classifies retail images for French e-commerce company Cdiscount using the pretrained model RESNET.
+Neural networks code is written using Pytorch
+
+
